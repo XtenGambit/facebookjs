@@ -1,0 +1,25 @@
+{
+  "name": "facebookjs",
+  "version": "1.0.0-beta.0",
+  "description": "Promise based SDK for Facebook graph API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jean-moldovan/facebookjs.git"
+  },
+  "keywords": [
+    "facebook",
+    "graph",
+    "javascript",
+    "sdk"
+  ],
+  "author": "Eugene Granik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jean-moldovan/facebookjs/issues"
+  },
+  "homepage": "https://github.com/jean-moldovan/facebookjs#readme"
+}
